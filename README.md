@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Web Development.
 - 💬 Ask me about anything.
 - 📫 How to contact: joaovellenich@gmail.com
-
 ##
 
 <div>
