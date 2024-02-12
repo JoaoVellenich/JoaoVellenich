@@ -1,5 +1,4 @@
-## Welcome, My name is João Pedro Hegedus Vellenich, I'm studyng Computer Science at UC-SP
-
+## Welcome, My name is João Pedro Hegedus Vellenich
 
 - 🌱 I’m currently learning Web Development.
 - 💬 Ask me about anything.
