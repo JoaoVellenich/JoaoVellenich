@@ -5,6 +5,9 @@
 - 📫 How to contact: joaovellenich@gmail.com
 ##
 
+![João Vellenich GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVellenich&show_icons=true&theme=dracula&count_private=true)
+
+
 <div>
   <a href="https://github.com/JoaoVellenich">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVellenich&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
