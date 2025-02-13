@@ -1,6 +1,6 @@
 ## Welcome, My name is João Pedro Hegedus Vellenich
 
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently a Software Engineer.
 - 💬 Ask me about anything.
 - 📫 How to contact: joaovellenich@gmail.com
 ##
